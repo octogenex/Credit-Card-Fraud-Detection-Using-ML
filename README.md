@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Using-ML
-Analyzed the datasheet with 284807) and then taking 10% of total transaction which is 28481 transaction using Unsupervised learning.
+Analyzed the datasheet with 284807 and then taking 10% of total transaction which is 28481 transaction using Unsupervised learning.
 Algorithms used Local Outlier Factor and Isolation Forest Algorithm.
 Packages used like sys, numpy, pandas, matplotlib, seaborn, scipy, sklearn.
 Imported the dataset of 284807 transaction whihc i downloaded from Kaggle.com.
