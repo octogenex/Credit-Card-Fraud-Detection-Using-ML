@@ -3,7 +3,7 @@ Analyzed the datasheet with 284807 and then taking 10% of total transaction whic
 Algorithms used Local Outlier Factor and Isolation Forest Algorithm.
 Packages used like sys, numpy, pandas, matplotlib, seaborn, scipy, sklearn.
 Imported the dataset of 284807 transaction whihc i downloaded from Kaggle.com.
-Exlored the dataset and print the column.
+Explored the dataset and print the column.
 There are 2 classses, Class 1 for fraud transaction and Class 0 for valid transaction.
 Plotting the histogram i was able to find out the amound withdrawn.
 Then I printed the outlier factor, fraud transaction out of total transaction and valid transaction.
